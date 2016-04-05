@@ -1,2 +1,4 @@
-# HotMoviesWeb
-authoring-hot-movies
+# Authoring GitHub Project
+HOTMOVIES Gallery
+Qianxin Chen, Zhixin Su
+
