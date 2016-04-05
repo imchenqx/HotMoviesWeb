@@ -1,4 +1,3 @@
 # Authoring GitHub Project
-HOTMOVIES Gallery
-Qianxin Chen, Zhixin Su
+HOTMOVIES Gallery-Qianxin Chen, Zhixin Su
 
